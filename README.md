@@ -1,4 +1,4 @@
-# rsschool-2019Q1-cv
+Markdown & Git
 
 
 1. Karpenkin Andrei
